@@ -2,6 +2,7 @@
 A study guide and roadmap for data engineering topics.
 
 ## Tracks
+- `data-engineering-basics/` (core concepts and terminology)
 - `data-engineering-for-aws/` (scaffold; content WIP)
 - `data-engineering-for-blockchain/` (scaffold; content WIP)
 
